@@ -77,6 +77,7 @@ enode://f7c3584eaf6658fb4651dfe8b5aa7af9c52cd2a62a818203e68af970264599f242a04282
 
 6. Celebrate, you just created a blockchain and sent a transaction!
 
+![txn_image](screenshot/node1_to_node2.png)
 ![receipt_image](screenshot/txn_receipt1.png)
 ![receipt_image2](screenshot/txn_receipt2.png)
 
